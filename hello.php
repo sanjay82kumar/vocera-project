@@ -1,6 +1,8 @@
 <?php
 $n="hello";
 $n1="welcome";
+$n2="welcome";
+echo $n2;
 echo $n1;
 
 echo $n;
